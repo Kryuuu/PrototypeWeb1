@@ -138,7 +138,7 @@ document.addEventListener('keydown', (event) => {
 
 // Contact form -> EmailJS
 const EMAILJS_SERVICE_ID = 'service_z525eb2';
-const EMAILJS_TEMPLATE_ID = 'ttemplate_pq8okdo';
+const EMAILJS_TEMPLATE_ID = 'template_pq8okdo';
 const EMAILJS_PUBLIC_KEY = '88M0dHhSmm_l9tCS9';
 const EMAILJS_TARGET_EMAIL = 'rumahbumnbanjarmasinkalsel@gmail.com';
 
@@ -239,3 +239,4 @@ form?.addEventListener('submit', async (event) => {
     setSubmittingState(false);
   }
 });
+
