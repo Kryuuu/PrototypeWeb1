@@ -239,4 +239,3 @@ form?.addEventListener('submit', async (event) => {
     setSubmittingState(false);
   }
 });
-
